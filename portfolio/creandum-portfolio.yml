@@ -1,0 +1,1530 @@
+generated: '2026-07-17'
+method: searched
+source: https://creandum.com/commitments/
+summary:
+  portfolio_total: 154
+  in_network: 26
+  api_providers: 20
+  missing: 128
+  stubs_created: 0
+companies:
+- name: EquiLibre
+  url: https://equilibre.ai/
+  description: AI trading using reinforcement learning
+  sector: ai
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: equilibre
+- name: Causa Prima
+  url: https://causaprima.ai/
+  description: The agent-to-agent network for B2B finance
+  sector: ai
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: causa-prima
+- name: PAVE Space
+  url: https://pave.space/
+  description: The logistics backbone of the space economy
+  sector: other
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pave-space
+- name: Hosted·ai
+  url: https://hosted.ai/
+  description: GPU virtualisation for neocloud service providers
+  sector: ai
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hosted-ai
+- name: Olix
+  url: https://olix.com/
+  description: Building the infrastructure for Frontier AI
+  sector: ai
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: olix
+- name: Black Forest Labs
+  url: https://bfl.ai/
+  description: World-leading AI text-to-image generation
+  sector: ai
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  slug: black-forest-labs
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Cerrion
+  url: https://www.cerrion.com/
+  description: AI video agents built for manufacturing
+  sector: ai
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cerrion
+- name: GetVocal
+  url: https://www.getvocal.ai/
+  description: The AI platform for human-AI workforces
+  sector: ai
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: getvocal
+- name: Midas
+  url: https://midas.app/
+  description: Institutional-grade investment products onchain
+  sector: fintech
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: midas
+- name: Vesence
+  url: https://vesence.com/
+  description: Cursor for Lawyers
+  sector: ai
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vesence
+- name: Jack & Jill
+  url: https://jackandjill.ai/
+  description: The AI super-recruiters
+  sector: ai
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: jack-and-jill
+- name: Instruct
+  url: https://instruct.ai/
+  description: Create AI agents that perform any task
+  sector: ai
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: instruct
+- name: Conduct
+  url: https://conduct.ai/
+  description: AI to modernise legacy ERP at scale
+  sector: ai
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: conduct
+- name: Foresight
+  url: https://www.foresight.works/
+  description: Turn construction schedules into strategic decision-making
+  sector: other
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: foresight
+- name: Maisa
+  url: https://maisa.ai/
+  description: Reliable AI Agents for Enterprises
+  sector: ai
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: maisa
+- name: Sibill
+  url: https://sibill.com/
+  description: The all-in-one accounting platform for Italian SMEs
+  sector: fintech
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sibill
+- name: Superscale
+  url: https://www.superscale.ai/
+  description: The AI CMO
+  sector: ai
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: superscale
+- name: Junction
+  url: https://www.junction.com/
+  description: Data-driven infrastructure for patient-centered healthcare
+  sector: ai
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  slug: vital-io
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Lovable
+  url: https://lovable.dev/
+  description: The world's first AI full stack software engineer
+  sector: ai
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  slug: lovable
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Capi Money
+  url: https://capimoney.com/
+  description: Unlocking global trade for emerging markets
+  sector: fintech
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: capi-money
+- name: Sereact
+  url: https://sereact.ai/
+  description: Embodied AI for robots
+  sector: ai
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sereact
+- name: nexos.ai
+  url: https://nexos.ai/
+  description: AI orchestration platform
+  sector: ai
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nexosai
+- name: Boardy
+  url: https://www.boardy.ai/
+  description: The AI Superconnector
+  sector: ai
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: boardy
+- name: Kurrent
+  url: https://www.kurrent.io/
+  description: Transforming data into context-rich insights
+  sector: other
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kurrent
+- name: Appcharge
+  url: https://appcharge.com/
+  description: D2C platform for mobile game publishers
+  sector: other
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: appcharge
+- name: terralayr
+  url: https://www.trlyr.com/
+  description: Energy flexibility services on demand
+  sector: climate
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: terralayr
+- name: Rillet
+  url: https://rillet.com/
+  description: Automation-first accounting software
+  sector: fintech
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: rillet
+- name: doinstruct
+  url: https://www.doinstruct.com/
+  description: Leading platform for frontline worker training
+  sector: saas
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: doinstruct
+- name: Visibly
+  url: https://www.visiblyhq.com/
+  description: Better training for those who build our world
+  sector: saas
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: visibly
+- name: plancraft
+  url: https://plancraft.com/
+  description: Digitizing the craft industries
+  sector: saas
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: plancraft
+- name: H Company
+  url: https://www.hcompany.ai/
+  description: The next frontier of generative AI
+  sector: saas
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: h-company
+- name: Codesphere
+  url: https://codesphere.com/
+  description: Deploy and scale the cloud
+  sector: saas
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: codesphere
+- name: Embat
+  url: https://www.embat.io/
+  description: Treasury management for the mid-market
+  sector: fintech
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: embat
+- name: Lindus Health
+  url: https://www.lindushealth.com/
+  description: End-to-end clinical trials for healthtech & biotech pioneers
+  sector: health
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lindus-health
+- name: Unitary AI
+  url: https://www.unitary.ai/
+  description: AI safety layer for online video content
+  sector: saas
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: unitary-ai
+- name: Kosmik
+  url: https://www.kosmik.app/
+  description: Visual canvas for knowledge management
+  sector: consumer
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kosmik
+- name: Prewave
+  url: https://www.prewave.com/
+  description: AI supply chain risk intelligence
+  sector: saas
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: prewave
+- name: Augustus
+  url: https://www.getivy.io/
+  description: Money clearing for the AI era.
+  sector: fintech
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: augustus
+- name: Cast AI
+  url: https://cast.ai/
+  description: DevOps automation platform
+  sector: saas
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  slug: cast-ai
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Enode
+  url: https://enode.com/
+  description: Infrastructure for green energy apps
+  sector: climate
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  slug: enode
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Procuros
+  url: https://procuros.io/
+  description: Automation of B2B transactions
+  sector: saas
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: procuros
+- name: Twirl
+  url: https://twirldata.com/
+  description: Allowing teams to build data products faster
+  sector: saas
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: twirl
+- name: Scarlet
+  url: https://www.scarletcomply.com/
+  description: Certification for medical software
+  sector: health
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: scarlet
+- name: Better Stack
+  url: https://betterstack.com/
+  description: See inside any tech stack and resolve any incident
+  sector: saas
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  slug: betterstack
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Fuse Energy
+  url: https://www.fuseenergy.com/
+  description: Commission-free electricity for everyone
+  sector: climate
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fuse-energy
+- name: Modal
+  url: https://modal.com/
+  description: High-performance AI infrastructure that developers love
+  sector: other
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  slug: modal
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Project Eaden
+  url: https://www.projecteaden.com/
+  description: Pioneering technology platform for sustainable food
+  sector: consumer
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: project-eaden
+- name: Planhat
+  url: https://www.planhat.com/
+  description: Manage your customers better
+  sector: saas
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: planhat
+- name: Leapsome
+  url: https://www.leapsome.com/
+  description: Optimising your people management & engagement
+  sector: saas
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  slug: leapsome
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Lunar-X
+  url: http://lunar-x.com/
+  description: Media company for digital-first content brands
+  sector: other
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lunar-x
+- name: Tola
+  url: https://www.tolahq.com/
+  description: The tool for businesses to pay and get paid
+  sector: other
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tola
+- name: Monta
+  url: https://monta.com/
+  description: EV charging software
+  sector: climate
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  slug: monta
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Gilion (formerly ArK)
+  url: https://www.gilion.com/
+  description: Precision finance company
+  sector: fintech
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: gilion-formerly-ark
+- name: Passionfroot
+  url: https://www.passionfroot.me/
+  description: Where creators do business
+  sector: saas
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: passionfroot
+- name: Timberhub
+  url: https://www.timberhub.com/
+  description: Digital marketplace for timber trading
+  sector: other
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: timberhub
+- name: Lokalise
+  description: Localization and translation software
+  sector: saas
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  slug: lokalise
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Alokai (formerly Vue Storefront)
+  url: https://alokai.com/
+  description: Frontend platform for headless commerce
+  sector: saas
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: alokai-formerly-vue-storefront
+- name: Gopuff
+  url: https://www.gopuff.com/
+  description: Groceries, home essentials & more delivered instantly
+  sector: consumer
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  slug: gopuff
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Abacum
+  url: https://www.abacum.io/
+  description: Financial planning for mid-market companies
+  sector: saas
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: abacum
+- name: craft
+  url: https://www.craft.do/
+  description: Next generation of documents
+  sector: consumer
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: craft
+- name: Leap
+  description: Creating meaningful social connections
+  sector: consumer
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: leap
+- name: SEON
+  url: https://seon.io/
+  description: Uncover fraud patterns
+  sector: saas
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  slug: seon
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Bucket
+  url: https://bucket.co/
+  description: The feature company
+  sector: saas
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bucket
+- name: Safety Wing
+  url: https://safetywing.com/
+  description: Providing cross-border benefits for remote employees
+  sector: fintech
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: safety-wing
+- name: Kive
+  url: https://www.kive.ai/
+  description: AI-first digital asset management platform for creators
+  sector: saas
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kive
+- name: Meditopia
+  url: https://meditopia.com/en/
+  description: Daily support for your mental health
+  sector: consumer
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: meditopia
+- name: swan
+  url: https://www.swan.io/
+  description: Banking-as-a-Service platform
+  sector: fintech
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  slug: swan-io
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Amie
+  url: https://www.amie.so/
+  description: Disrupting the productivity stack
+  sector: consumer
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: amie
+- name: Twaice
+  url: https://www.twaice.com/
+  description: Leading battery analytics AI software
+  sector: climate
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: twaice
+- name: Laka
+  url: https://laka.co/
+  description: Collective insurance
+  sector: fintech
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: laka
+- name: Stockeld Dreamery
+  url: https://www.stockeld.com/
+  description: The world's most ambitious cheese
+  sector: consumer
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: stockeld-dreamery
+- name: Trade Republic
+  url: https://traderepublic.com/
+  description: Mobile-first commission-free savings platform
+  sector: fintech
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: trade-republic
+- name: Shapr3D
+  url: https://www.shapr3d.com/
+  description: Next-gen CAD for any platform
+  sector: saas
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: shapr3d
+- name: CarOnSale
+  url: https://www.caronsale.com/
+  description: Digital platform facilitating B2B automotive trades
+  sector: other
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: caronsale
+- name: Bolt
+  url: https://bolt.eu/
+  description: All-in-one mobility app
+  sector: consumer
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  slug: bolt-eu
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: REKKI
+  url: https://rekki.com/
+  description: Restaurant supplies managed by chefs
+  sector: other
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: rekki
+- name: Vay
+  url: https://vay.io/
+  description: Teledrive-first approach to autonomous driving
+  sector: other
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vay
+- name: yulife
+  url: https://yulife.com/
+  description: Insurance that inspires life
+  sector: fintech
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: yulife
+- name: Voi
+  description: E-scooters and e-bikes for hire
+  sector: consumer
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: voi
+- name: pipe
+  url: https://pipe.com/
+  description: Transforming recurring revenue into up-front capital
+  sector: fintech
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pipe
+- name: Toit
+  url: https://toit.io/
+  description: Software platform for IoT
+  sector: saas
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: toit
+- name: cargo.one
+  url: https://www.cargo.one/
+  description: Digital platform for freight forwarders
+  sector: other
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  slug: cargo-one
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Factorial
+  url: https://factorialhr.co.uk/
+  description: HR software for SMEs
+  sector: saas
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  slug: factorial
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: FirstVet
+  url: https://firstvet.com/
+  description: The digital veterinary clinic
+  sector: consumer
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: firstvet
+- name: Mavenoid
+  url: https://www.mavenoid.com/
+  description: Support platform for consumer-facing hardware companies
+  sector: saas
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mavenoid
+- name: Billie
+  url: https://www.billie.io/
+  description: Revolutionizing SME financing
+  sector: fintech
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: billie
+- name: Ready (formerly Argent)
+  url: https://www.ready.co/
+  description: Ethereum wallet for DeFi and NFTs
+  sector: fintech
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ready-formerly-argent
+- name: Mixmax
+  url: https://www.mixmax.com/
+  description: Sales engagement & prospecting platform for Gmail
+  sector: saas
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mixmax
+- name: unitQ
+  url: https://www.unitq.com/
+  description: Understand your users in real time
+  sector: saas
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: unitq
+- name: Tide
+  url: https://www.tide.co/
+  description: Mobile-first business banking
+  sector: fintech
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tide
+- name: BLAST
+  url: https://blastpremier.com/
+  description: Global esports media network
+  sector: other
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: blast
+- name: elastic
+  url: https://www.elastic.co/
+  description: The leading platform for search-powered solutions
+  sector: saas
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  slug: elastic
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Taxfix
+  url: http://www.taxfix.de/
+  description: Income tax declaration on the go
+  sector: fintech
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: taxfix
+- name: Favro
+  url: https://www.favro.com/
+  description: Agile collaborative planning app for SaaS & Games
+  sector: saas
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: favro
+- name: Pleo
+  url: https://www.pleo.io/de/
+  description: Combining expenses with smart, beautiful software
+  sector: fintech
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  slug: pleo
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Kry
+  url: https://kry.health/
+  description: Digital-first healthcare provider
+  sector: health
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kry
+- name: Klarna
+  url: https://www.klarna.com/de/?grs=https%3A%2F%2Fwww.klarna.com%2F&grr=empty/
+  description: Making online shopping easy and hassle-free
+  sector: fintech
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  slug: klarna
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Distribusion
+  url: https://distribusion.com/
+  description: Access to ground transportation worldwide
+  sector: other
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: distribusion
+- name: Resolution Games
+  url: https://www.resolutiongames.com/
+  description: Immersive VR and AR games experiences
+  sector: consumer
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: resolution-games
+- name: Virta Health
+  url: https://www.virtahealth.com/
+  description: On a mission to reverse type 2 diabetes in 100 million people
+  sector: health
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: virta-health
+- name: Neo4J
+  description: Worlds leading graph database
+  sector: saas
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  slug: neo4j
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Epidemic Sound
+  description: Restriction free music for video creators
+  sector: other
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  slug: epidemic-sound
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Xeneta
+  url: https://www.xeneta.com/
+  description: Global leader in ocean and air freight rate analytics
+  sector: saas
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: xeneta
+- name: Vivino
+  url: https://www.vivino.com/
+  description: World's largest wine marketplace
+  sector: consumer
+  status: active
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vivino
+- name: atla
+  url: https://www.atla-ai.com/
+  description: Building safe AI systems
+  sector: saas
+  status: unknown
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: atla
+- name: Packfleet
+  url: https://packfleet.com/
+  description: Next generation green delivery service
+  sector: climate
+  status: unknown
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: packfleet
+- name: Navan
+  url: https://navan.com/de/
+  description: All-in-one online travel management solution
+  sector: other
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  slug: navan
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Topi
+  url: https://www.topi.eu/en/
+  description: Hardware as a subscription
+  sector: fintech
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: topi
+- name: Osu
+  description: Payments management for SMEs
+  sector: fintech
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: osu
+- name: Dija
+  description: Instant groceries
+  sector: consumer
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: dija
+- name: lemon.markets
+  url: https://www.lemon.markets/
+  description: The brokerage infrastructure for developers
+  sector: fintech
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lemonmarkets
+- name: Magmatic Games
+  description: Leading casual gaming studio
+  sector: consumer
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: magmatic-games
+- name: Cake
+  description: Premium electric motorbikes and mopeds
+  sector: climate
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cake
+- name: Klaus
+  url: https://www.klausapp.com/
+  description: Customer Service Quality Management Platform
+  sector: other
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: klaus
+- name: Honest Food Company
+  description: Building the future of online food delivery
+  sector: consumer
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: honest-food-company
+- name: Careship
+  description: Online marketplace for elderly care services
+  sector: other
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: careship
+- name: Clustree
+  description: Talent management intelligence solution
+  sector: saas
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: clustree
+- name: 8fit
+  description: Tailored workout and meal plans
+  sector: consumer
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: 8fit
+- name: Bokio
+  description: Free automated accounting for SMEs
+  sector: fintech
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bokio
+- name: Syft
+  description: The future of flexible staffing
+  sector: other
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: syft
+- name: KNL
+  description: Providing internet anywhere
+  sector: other
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: knl
+- name: Comtravo
+  description: Intelligent business travel management
+  sector: other
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: comtravo
+- name: Cornershop
+  url: https://cornershopapp.com/en-us/
+  description: Groceries delivered to your doorstep
+  sector: consumer
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  slug: cornershop
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Kahoot!
+  url: https://kahoot.com/
+  description: A global leading learning platform
+  sector: consumer
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  slug: kahoot
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Depop
+  url: https://www.depop.com/
+  description: Mobile fashion marketplace
+  sector: consumer
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: depop
+- name: Futureplay
+  description: Pioneering view-to-play games
+  sector: consumer
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: futureplay
+- name: Peak
+  url: https://www.peak.net/
+  description: Mobile-first brain training app
+  sector: consumer
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: peak
+- name: Opbeat
+  description: Javascript application performance management
+  sector: saas
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: opbeat
+- name: Planday
+  description: Employee scheduling and communication made simple
+  sector: saas
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: planday
+- name: Instabridge
+  url: https://instabridge.com/
+  description: Crowdsourced free wifi for smartphones
+  sector: consumer
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: instabridge
+- name: Playraven
+  description: Strategy games for touch screens
+  sector: consumer
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: playraven
+- name: Small Giant Games
+  description: Leading mobile RPG-gaming studio
+  sector: consumer
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: small-giant-games
+- name: Listrunner
+  description: Helping medical teams get more done with less effort
+  sector: health
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: listrunner
+- name: Hansoft
+  description: Agile planning tool for enterprises
+  sector: other
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hansoft
+- name: Omniata
+  description: Customer data platform
+  sector: saas
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: omniata
+- name: Tictail
+  description: Helping anyone with great products sell online
+  sector: other
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tictail
+- name: Autobutler
+  description: The best way find a mechanic for your car
+  sector: consumer
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: autobutler
+- name: JustBook
+  description: First-class hotels at last-minute prices
+  sector: consumer
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: justbook
+- name: Nonstop Games
+  description: Singaporean-Finnish gaming company
+  sector: consumer
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nonstop-games
+- name: 13th Lab
+  description: Pioneer in computer vision for mobile handsets
+  sector: other
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: 13th-lab
+- name: iZettle
+  url: https://www.zettle.com/
+  description: Mobile payments and point-of-sale solutions
+  sector: fintech
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  slug: zettle
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Wrapp
+  description: Rewarding purchases and customer loyalty
+  sector: consumer
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: wrapp
+- name: Linas Matkasse
+  description: Delivery service for a well-stocked bag of groceries
+  sector: consumer
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: linas-matkasse
+- name: itslearning
+  description: Leaning Management Systems
+  sector: saas
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: itslearning
+- name: Spotify
+  url: https://www.spotify.com/
+  description: The world's leading digital music service
+  sector: consumer
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  slug: spotify
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Videoplaza
+  description: European leader of ad serving technology for online video
+  sector: other
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: videoplaza
+- name: IPtronics
+  description: Leader in fabless semiconductors
+  sector: other
+  status: unknown
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: iptronics
+- name: Xtract
+  description: Provider of social analytic solutions
+  sector: saas
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: xtract
+- name: Aito Technologies
+  description: Fast, agile decision making
+  sector: other
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: aito-technologies
+- name: Jays
+  description: Leading brand in earphones and audio equipment
+  sector: consumer
+  status: unknown
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: jays
+- name: Cint
+  description: Global market leader for online survey solutions
+  sector: other
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cint
+- name: Edgeware
+  description: Leading technology provider for on-demand TV
+  sector: other
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: edgeware
+- name: Norstel
+  description: Silicon Carbide semiconductor wafers
+  sector: other
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: norstel
+- name: TrustWeaver
+  description: Leader in e-signature and time-stamping solutions
+  sector: saas
+  status: unknown
+  lead: true
+  source: https://creandum.com/commitments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: trustweaver
