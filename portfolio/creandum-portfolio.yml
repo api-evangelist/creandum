@@ -1072,17 +1072,6 @@ companies:
   in_network: true
   is_api_provider: true
   matched_by: domain
-- name: Distribusion
-  url: https://distribusion.com/
-  description: Access to ground transportation worldwide
-  sector: other
-  status: active
-  lead: true
-  source: https://creandum.com/commitments/
-  in_network: true
-  is_api_provider: false
-  slug: distribusion
-  matched_by: domain
 - name: Resolution Games
   url: https://www.resolutiongames.com/
   description: Immersive VR and AR games experiences
