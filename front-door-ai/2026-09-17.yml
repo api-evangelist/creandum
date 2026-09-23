@@ -1,0 +1,27 @@
+# Front Door AI Index — creandum — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: creandum
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: creandum.com
+  final_host: creandum.com
+  ownership: own
+  owner: creandum
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 12
+  host_score: 12
+  density: 13.07
+  words: 918
+  tiers:
+    agentic: 2
+    core: 10
+    model: 0
+  ambiguous: 0
+  top_terms:
+    AI: 10
+    agentic: 1
+    conversational AI: 1
