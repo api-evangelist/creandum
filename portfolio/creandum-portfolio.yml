@@ -2,10 +2,10 @@ generated: '2026-07-17'
 method: searched
 source: https://creandum.com/commitments/
 summary:
-  portfolio_total: 154
-  in_network: 154
+  portfolio_total: 153
+  in_network: 149
   api_providers: 49
-  missing: 0
+  missing: 4
   stubs_created: 0
 companies:
 - name: EquiLibre
@@ -149,7 +149,7 @@ companies:
   source: https://creandum.com/commitments/
   in_network: true
   is_api_provider: false
-  slug: conduct
+  slug: conduct-ai
   matched_by: domain
 - name: Foresight
   url: https://www.foresight.works/
@@ -380,7 +380,7 @@ companies:
   source: https://creandum.com/commitments/
   in_network: true
   is_api_provider: false
-  slug: lindushealth
+  slug: lindus-health
   matched_by: domain
 - name: Unitary AI
   url: https://www.unitary.ai/
@@ -477,10 +477,10 @@ companies:
   status: active
   lead: true
   source: https://creandum.com/commitments/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: scarlet
-  matched_by: name-slug
+  x-name-collision: scarlet
+  suggested_slug: scarletcomply-com
 - name: Better Stack
   url: https://betterstack.com/
   description: See inside any tech stack and resolve any incident
@@ -501,7 +501,7 @@ companies:
   source: https://creandum.com/commitments/
   in_network: true
   is_api_provider: false
-  slug: fuse-energy
+  slug: fuse
   matched_by: domain
 - name: Modal
   url: https://modal.com/
@@ -510,9 +510,9 @@ companies:
   status: active
   lead: true
   source: https://creandum.com/commitments/
-  slug: modal
+  slug: modal-labs
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: Project Eaden
   url: https://www.projecteaden.com/
@@ -695,10 +695,10 @@ companies:
   status: active
   lead: true
   source: https://creandum.com/commitments/
-  in_network: true
-  is_api_provider: true
-  slug: bucket
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  x-name-collision: bucket
+  suggested_slug: bucket-co
 - name: Safety Wing
   url: https://safetywing.com/
   description: Providing cross-border benefits for remote employees
@@ -739,7 +739,7 @@ companies:
   status: active
   lead: true
   source: https://creandum.com/commitments/
-  slug: swan
+  slug: swan-io
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -914,10 +914,9 @@ companies:
   status: active
   lead: true
   source: https://creandum.com/commitments/
-  slug: factorial
-  in_network: true
-  is_api_provider: true
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  suggested_slug: factorial
 - name: FirstVet
   url: https://firstvet.com/
   description: The digital veterinary clinic
@@ -948,7 +947,7 @@ companies:
   lead: true
   source: https://creandum.com/commitments/
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: billie
   matched_by: domain
 - name: Ready (formerly Argent)
@@ -1057,10 +1056,9 @@ companies:
   status: active
   lead: true
   source: https://creandum.com/commitments/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: kry
-  matched_by: name-slug
+  suggested_slug: kry
 - name: Klarna
   url: https://www.klarna.com/de/?grs=https%3A%2F%2Fwww.klarna.com%2F&grr=empty/
   description: Making online shopping easy and hassle-free
@@ -1207,7 +1205,7 @@ companies:
   source: https://creandum.com/commitments/
   in_network: true
   is_api_provider: true
-  slug: lemon-markets
+  slug: lemonmarkets
   matched_by: domain
 - name: Magmatic Games
   description: Leading casual gaming studio
@@ -1330,7 +1328,7 @@ companies:
   slug: cornershop
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
 - name: Kahoot!
   url: https://kahoot.com/
   description: A global leading learning platform

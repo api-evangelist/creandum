@@ -1,4 +1,32 @@
-generated: '2026-07-22'
+generated: '2026-10-18'
 method: derived
 source_vc: creandum
-leads: []
+leads:
+- name: Scarlet
+  url: https://www.scarletcomply.com/
+  suggested_slug: scarletcomply-com
+  sector: health
+  source_vc: creandum
+  source: https://creandum.com/commitments/
+  stub_created: false
+- name: Bucket
+  url: https://bucket.co/
+  suggested_slug: bucket-co
+  sector: saas
+  source_vc: creandum
+  source: https://creandum.com/commitments/
+  stub_created: false
+- name: Factorial
+  url: https://factorialhr.co.uk/
+  suggested_slug: factorial
+  sector: saas
+  source_vc: creandum
+  source: https://creandum.com/commitments/
+  stub_created: false
+- name: Kry
+  url: https://kry.health/
+  suggested_slug: kry
+  sector: health
+  source_vc: creandum
+  source: https://creandum.com/commitments/
+  stub_created: false
