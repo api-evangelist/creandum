@@ -479,8 +479,8 @@ companies:
   source: https://creandum.com/commitments/
   in_network: false
   is_api_provider: false
-  x-name-collision: scarlet
   suggested_slug: scarletcomply-com
+  x-name-collision: scarlet
 - name: Better Stack
   url: https://betterstack.com/
   description: See inside any tech stack and resolve any incident
@@ -676,7 +676,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: leap
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.leap.energy/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: SEON
   url: https://seon.io/
   description: Uncover fraud patterns
@@ -697,8 +699,8 @@ companies:
   source: https://creandum.com/commitments/
   in_network: false
   is_api_provider: false
-  x-name-collision: bucket
   suggested_slug: bucket-co
+  x-name-collision: bucket
 - name: Safety Wing
   url: https://safetywing.com/
   description: Providing cross-border benefits for remote employees
@@ -1101,7 +1103,9 @@ companies:
   slug: neo4j
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://neo4j.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Epidemic Sound
   description: Restriction free music for video creators
   sector: other
@@ -1111,7 +1115,9 @@ companies:
   slug: epidemic-sound
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.epidemicsound.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Xeneta
   url: https://www.xeneta.com/
   description: Global leader in ocean and air freight rate analytics
@@ -1196,6 +1202,7 @@ companies:
   is_api_provider: false
   slug: dija
   matched_by: name-slug
+  x-url-candidate: https://dija.now/
 - name: lemon.markets
   url: https://www.lemon.markets/
   description: The brokerage infrastructure for developers
@@ -1226,7 +1233,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: cake
-  matched_by: name-slug
+  matched_by: domain
+  url: https://ridecake.com/en-US
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Klaus
   url: https://www.klausapp.com/
   description: Customer Service Quality Management Platform
@@ -1257,7 +1266,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: careship
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.careship.de/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Clustree
   description: Talent management intelligence solution
   sector: saas
@@ -1287,7 +1298,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: bokio
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.bokio.se/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Syft
   description: The future of flexible staffing
   sector: other
@@ -1298,6 +1311,7 @@ companies:
   is_api_provider: false
   slug: syft
   matched_by: name-slug
+  x-url-candidate: https://syft.ai
 - name: KNL
   description: Providing internet anywhere
   sector: other
@@ -1360,7 +1374,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: futureplay
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.futureplaygames.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Peak
   url: https://www.peak.net/
   description: Mobile-first brain training app
@@ -1391,7 +1407,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: planday
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.planday.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Instabridge
   url: https://instabridge.com/
   description: Crowdsourced free wifi for smartphones
@@ -1422,7 +1440,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: small-giant-games
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.smallgiantgames.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Listrunner
   description: Helping medical teams get more done with less effort
   sector: health
@@ -1443,6 +1463,7 @@ companies:
   is_api_provider: false
   slug: hansoft
   matched_by: name-slug
+  x-url-candidate: https://www.hansoft.ai/
 - name: Omniata
   description: Customer data platform
   sector: saas
@@ -1453,6 +1474,7 @@ companies:
   is_api_provider: false
   slug: omniata
   matched_by: name-slug
+  x-url-candidate: https://omniata.com
 - name: Tictail
   description: Helping anyone with great products sell online
   sector: other
@@ -1472,7 +1494,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: autobutler
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.autobutler.dk
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: JustBook
   description: First-class hotels at last-minute prices
   sector: consumer
@@ -1524,6 +1548,7 @@ companies:
   is_api_provider: false
   slug: wrapp
   matched_by: name-slug
+  x-url-candidate: https://wrapp.ai
 - name: Linas Matkasse
   description: Delivery service for a well-stocked bag of groceries
   sector: consumer
@@ -1533,7 +1558,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: linas-matkasse
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.linasmatkasse.se/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: itslearning
   description: Leaning Management Systems
   sector: saas
@@ -1543,7 +1570,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: itslearning
-  matched_by: name-slug
+  matched_by: domain
+  url: https://itslearning.com/index.aspx
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Spotify
   url: https://www.spotify.com/
   description: The world's leading digital music service
@@ -1593,7 +1622,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: aito-technologies
-  matched_by: name-slug
+  matched_by: domain
+  url: https://aito.ai
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Jays
   description: Leading brand in earphones and audio equipment
   sector: consumer
@@ -1602,7 +1633,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: jays
-  matched_by: name-slug
+  matched_by: domain
+  url: https://jaysheadphones.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Cint
   description: Global market leader for online survey solutions
   sector: other
@@ -1612,7 +1645,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: cint
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.cint.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Edgeware
   description: Leading technology provider for on-demand TV
   sector: other
@@ -1622,7 +1657,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: edgeware
-  matched_by: name-slug
+  matched_by: domain
+  url: https://agiletv.com/edgeware/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Norstel
   description: Silicon Carbide semiconductor wafers
   sector: other
@@ -1633,6 +1670,7 @@ companies:
   is_api_provider: false
   slug: norstel
   matched_by: name-slug
+  x-url-candidate: https://www.norstel.com/
 - name: TrustWeaver
   description: Leader in e-signature and time-stamping solutions
   sector: saas
